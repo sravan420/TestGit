@@ -2,7 +2,10 @@ package com.example.demo;
 
 public class Test {
 
-	//added test class	
-	System.out.println(;);
+	
+		  System.out.println("File opened...");
 
+		
+		  System.err.println("Where is that file?");
+		
 }
